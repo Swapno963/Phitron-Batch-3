@@ -1,0 +1,1 @@
+{"name":"Local: pattern","url":"d:\\Batch-3\\5_Python\\week_1\\Assignment\\pattern.py","tests":[{"id":1696017103565,"input":"1","output":"#"},{"id":1696017110335,"input":"2\n#\n##","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\5_Python\\week_1\\Assignment\\pattern.py","group":"local","local":true}

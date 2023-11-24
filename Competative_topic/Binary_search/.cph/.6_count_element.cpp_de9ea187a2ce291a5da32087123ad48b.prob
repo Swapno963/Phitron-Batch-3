@@ -1,0 +1,1 @@
+{"name":"Local: 6_count_element","url":"d:\\Batch-3\\Competative_topic\\Binary_search\\6_count_element.cpp","tests":[{"id":1699826217433,"input":"1\n7 10\n2 4 10 10 10 17 39","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\Competative_topic\\Binary_search\\6_count_element.cpp","group":"local","local":true}

@@ -1,0 +1,11 @@
+Why linked list
+1. arry store value in a sequence order, if we have memory but not in sequence then we can store it.
+in arry we store
+first 120 adress
+second 124 add
+third 128
+if 132 is already used then array can be used in hear, because we have memory but don't have sequencial memory
+
+2.linked list require connection not sequence memory
+
+3.In normal array we need to give size while creating array and we can't chage it later though it solved by dynamic array , In linked list there is no size, we just need to connect one to another

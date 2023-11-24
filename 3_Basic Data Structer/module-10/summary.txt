@@ -1,0 +1,11 @@
+list can initlize by many ways
+1. list <int> myList2(10,4); //create 10 variable with 4 value
+
+2. list<int> myList(myList2); // copy all the element of myList2
+
+3. can copy from array int a[3] = [1,2,4]; 
+list <int> l(a, a+3)
+
+4.same for vector
+vector <int> v = {10,20,30};
+list <int> l (v.begin(), v.end())

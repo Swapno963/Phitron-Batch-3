@@ -1,0 +1,1 @@
+{"name":"Local: of_array","url":"d:\\Batch-3\\Competative_topic\\Prifix_sum\\of_array.cpp","tests":[{"id":1700255533845,"input":"1\n5\n2 4 2 6 3","output":"2 6 8 14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\Competative_topic\\Prifix_sum\\of_array.cpp","group":"local","local":true}

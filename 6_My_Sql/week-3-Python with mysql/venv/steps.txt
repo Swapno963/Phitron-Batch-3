@@ -1,0 +1,15 @@
+1. creating virtual environment
+cmd : python -m venv my-env
+
+2. then cd my-env, cd Scripts, activate
+This will active our virtual environment
+
+3. install mysql
+cmd : pip install mysql-connector-python
+
+4. to create a file where all of our required dependensis list will be present
+cmd : pip freeze > my-requirement.txt
+
+5. you can not use "-" while giving name to you database
+
+6. when you INSERT,UPDATE you need to commmit

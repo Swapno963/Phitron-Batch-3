@@ -1,0 +1,1 @@
+{"name":"Local: 2_sum_of_i_to_r","url":"d:\\Batch-3\\Competative_topic\\Prifix_sum\\2_sum_of_i_to_r.cpp","tests":[{"id":1700255846485,"input":"1\n5\n2 4 2 6 3\n2\n2 3\n1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\Competative_topic\\Prifix_sum\\2_sum_of_i_to_r.cpp","group":"local","local":true}

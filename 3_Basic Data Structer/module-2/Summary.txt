@@ -1,0 +1,25 @@
+Dynamic array ar stl holo vector
+size barano easlily kora jai,
+
+array and vector are quite similear
+
+to know size, we can use v.size()
+vector a kono value initalization na korla size onuaye 0 asbe,
+
+array ar value initalize korta hola
+vector <int> v(a,a+5);
+
+push_back() # dan pash a value add kore and jodi existing size a na hoy tahola aita size double kora 
+
+r pop_back() ai oposit kaj kore
+
+v.clear() // aita O(N) time ney, aita memory thake remove kora nah, and size 0 kora dai,  tai loop use kora acccess kora jai na. but v[3] aivabe pawa jai
+
+and size 0 kina seta empty() diea kora jai
+
+v.resize() // aitar complexity holo new size and ager size ar parthakko
+
+akta vector a onno akta vector assigen kora jai 2 vabe
+1. v = v1 
+2. v.assign(v1)
+but complexity    

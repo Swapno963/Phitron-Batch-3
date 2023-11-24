@@ -1,0 +1,7 @@
+Y
+Y
+
+YR
+YC
+PYPYC
+You need two stack,first one is for 

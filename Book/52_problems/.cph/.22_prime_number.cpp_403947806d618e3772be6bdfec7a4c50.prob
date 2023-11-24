@@ -1,0 +1,1 @@
+{"name":"Local: 22_prime_number","url":"d:\\Batch-3\\Book\\52_problems\\22_prime_number.cpp","tests":[{"id":1698318125448,"input":"3\n1 5\n25 50\n12 27","output":"3\n6\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\Book\\52_problems\\22_prime_number.cpp","group":"local","local":true}

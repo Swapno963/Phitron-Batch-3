@@ -1,0 +1,3 @@
+preorder  = root - left - right
+postorder = left - right - root
+inorder   = left - root - right

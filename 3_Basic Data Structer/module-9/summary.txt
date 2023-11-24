@@ -1,0 +1,4 @@
+Double linked list
+1. single linked list a amra sudu head thake tail a jete partam, but aita ta head thake tail and tail take head a jawa jai
+
+2. double linked list a ager noad and porer node ar address thakbe

@@ -1,0 +1,1 @@
+{"name":"Local: 3_building_road","url":"d:\\Batch-3\\4_Algorithm\\week-3_shortest_path(bfs)-dijkstra\\3_building_road.cpp","tests":[{"id":1695151523154,"input":"4 2\n1 2\n3 4","output":"1\n1 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\4_Algorithm\\week-3_shortest_path(bfs)-dijkstra\\3_building_road.cpp","group":"local","local":true}

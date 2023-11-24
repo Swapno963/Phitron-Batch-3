@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\Batch-3\\contest\\Codeforces Round 871 (Div. 4)\\a.cpp","tests":[{"id":1695899489940,"input":"5\ncoolforsez\ncadafurcie\ncodeforces\npaiuforces\nforcescode","output":"4\n5\n0\n4\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\contest\\Codeforces Round 871 (Div. 4)\\a.cpp","group":"local","local":true}

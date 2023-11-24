@@ -1,0 +1,1 @@
+{"name":"Local: prb_1","url":"d:\\Batch-3\\Other\\Naim_vai\\prb_1.cpp","tests":[{"id":1694269247086,"input":"5\n69 87 45 21 47","output":"47 21 45 87 69"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\Other\\Naim_vai\\prb_1.cpp","group":"local","local":true}

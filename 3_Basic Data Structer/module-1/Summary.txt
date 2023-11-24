@@ -1,0 +1,36 @@
+Grammer
+1. Always calculate for worse case
+2. ignore the constante
+2n = n 
+n/2 = n 
+
+Online complier give 1s which means (+-10^8)10^7 operation
+to solve 10^8 step require 10 sec
+to solve 10^9 step require 100 sec
+
+O(long n) = 10^18  
+long long 10^18 takes 60 steps
+jodi gunitok or vag kore agai.like:2,4,8,16
+
+
+O(/-n) = 10^14
+O(n) = 10^7
+O(n logn) = 10^5
+O(n*n) = 10^3
+O(2^n) = 20
+
+online complier give 10^6 size allocate
+O(n) = 10^6
+O(n*n) = 10^3
+O(/-n) = 10^12
+
+
+
+logN = devide/multuiply in every step
+
+
+
+Space complexity = input space + auxialiry space
+arr[n][m] = n*m
+O(n) = 10^6
+O(n*m) = 10^3

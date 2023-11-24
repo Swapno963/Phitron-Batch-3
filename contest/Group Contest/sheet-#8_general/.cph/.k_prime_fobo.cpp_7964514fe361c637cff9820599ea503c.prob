@@ -1,0 +1,1 @@
+{"name":"Local: k_prime_fobo","url":"d:\\Batch-3\\contest\\Group Contest\\sheet-#8_general\\k_prime_fobo.cpp","tests":[{"id":1698346978373,"input":"3\n1\n5\n7","output":"not prime\nprime\nnot prime"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-3\\contest\\Group Contest\\sheet-#8_general\\k_prime_fobo.cpp","group":"local","local":true}
